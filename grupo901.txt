@@ -7,5 +7,9 @@ lizbeth ambrosio gopar
 Angel Francisco Urrea Ovando
 Robles Hernandez Irving Osiris
 Irlanda Barcelata Jimenez
+<<<<<<< HEAD
 Jorge Raúl Valencia Santos
 >>>>>>> 461631d3c7213b68e50522990ca6956b2a8fb139
+=======
+cielito cancino hernandez
+>>>>>>> 4b8a9149ecf5ec845310ee3cc52b87216f9cb590
