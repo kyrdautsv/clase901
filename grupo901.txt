@@ -17,11 +17,14 @@ sebastian toledo cuevas
 =======
 =======
 sebastian toledo cuevas
+Jose Alfredo Salinas Caudillo
+Jorge Raúl Valencia Santos
 
 
 omar Francisco rendon freyre
 >>>>>>> ebe1a6f5fe2d154ca842f1703bd89dc5ff437b55
 Yesenia Carlos Perez
+<<<<<<< HEAD
 >>>>>>> 13a4c6e57c7417b0dfa9ae9e1dc6ab621a6e9cff
 
 .
@@ -36,3 +39,13 @@ Yesenia Carlos Perez
 
 
 
+=======
+
+
+
+Juan Antonio Anguiano Antonio
+>>>>>>> 17b57008547f1f567cb46f532e4e907adc349a30
+
+
+
+Vania Johana Licona Santiago
