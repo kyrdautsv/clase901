@@ -4,12 +4,20 @@ Dariana Gabriela Geronimo
 =======
 cristian de jesus vergara valerio
 lizbeth ambrosio gopar 
+Irlanda Barcelata Jimenez
+Jesus Emmanuel san Juan Gomez
+Angel Francisco Urrea Ovando
+Robles Hernandez Irving Osiris
 Angel Francisco Urrea Ovando
 Robles Hernandez Irving Osiris
 Irlanda Barcelata Jimenez
-<<<<<<< HEAD
 Jorge Raúl Valencia Santos
+<<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 461631d3c7213b68e50522990ca6956b2a8fb139
 =======
+=======
+Irlanda Barcelata Jimenez
+>>>>>>> 5e364ee679ff437565d549ec689032d3fa18d610
 cielito cancino hernandez
 >>>>>>> 4b8a9149ecf5ec845310ee3cc52b87216f9cb590
