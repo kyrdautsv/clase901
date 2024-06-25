@@ -1,3 +1,11 @@
 lista de alumnos del grupo 901
 Dariana Gabriela Geronimo
+<<<<<<< HEAD
+=======
+cristian de jesus vergara valerio
+lizbeth ambrosio gopar 
+Angel Francisco Urrea Ovando
+Robles Hernandez Irving Osiris
+Irlanda Barcelata Jimenez
 Jorge Raúl Valencia Santos
+>>>>>>> 461631d3c7213b68e50522990ca6956b2a8fb139
