@@ -1,7 +1,7 @@
 lista de alumnos del grupo 901
 Dariana Gabriela Geronimo
 cristian de jesus vergara valerio
-lizbeth ambrosio gopar 
+lizbeth ambrosio Gopar 
 Irlanda Barcelata Jimenez
 Jesus Emmanuel san Juan Gomez
 Angel Francisco Urrea Ovando
@@ -11,5 +11,9 @@ Robles Hernandez Irving Osiris
 Irlanda Barcelata Jimenez
 Irlanda Barcelata Jimenez
 cielito cancino hernandez
+<<<<<<< HEAD
 sebastian toledo cuevas
 Vania Johana Licona Santiago
+=======
+Yesenia Carlos Perez
+>>>>>>> 13a4c6e57c7417b0dfa9ae9e1dc6ab621a6e9cff
