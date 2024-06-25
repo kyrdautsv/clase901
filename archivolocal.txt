@@ -1,3 +1,4 @@
 archivo linea editada local
-segunda linea remota
+segunda linea remota 2
+tercer linea remota
 
