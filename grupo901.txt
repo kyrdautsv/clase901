@@ -1,13 +1,15 @@
-lista de alumnos del grupo 901
+Lista de alumnos del grupo 901
+
 Diego Alberto Canto Ricardez
 Dariana Gabriela Geronimo
-cristian de jesus vergara valerio
-lizbeth ambrosio Gopar 
+Cristian de Jesus Vergara Valerio
+Lizbeth Ambrosio Gopar 
 Irlanda Barcelata Jimenez
-Jesus Emmanuel san Juan Gomez
+Jesus Emmanuel San Juan Gomez
 Angel Francisco Urrea Ovando
 Robles Hernandez Irving Osiris
 Angel Francisco Urrea Ovando
+<<<<<<< HEAD
 Robles Hernandez Irving Osiris
 Irlanda Barcelata Jimenez
 Irlanda Barcelata Jimenez
@@ -54,3 +56,15 @@ Vania Johana Licona Santiago
 =======
 Juan Antonio Anguiano Antonio
 >>>>>>> a69615b429763911d6880a0a32e592bd2d5619e8
+=======
+Cielito Cancino Hernandez
+Sebastian Toledo Cuevas
+Jose Alfredo Salinas Caudillo
+Jorge Raúl Valencia Santos
+Estrella Amairani Bonilla Lechuga
+Omar Francisco rendon freyre
+Yesenia Carlos Perez
+Juan Antonio Anguiano Antonio
+Diego Antonio Ibarra Martinez
+>>>>>>> d71665410fd3a8f4bf04572d71fb6ab4d3b1ce37
+.
