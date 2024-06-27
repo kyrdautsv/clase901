@@ -1,4 +1,5 @@
 lista de alumnos del grupo 901
+Diego Alberto Canto Ricardez
 Dariana Gabriela Geronimo
 cristian de jesus vergara valerio
 lizbeth ambrosio Gopar 
@@ -43,9 +44,13 @@ Yesenia Carlos Perez
 
 
 
+<<<<<<< HEAD
 Juan Antonio Anguiano Antonio
 >>>>>>> 17b57008547f1f567cb46f532e4e907adc349a30
 
 
 
 Vania Johana Licona Santiago
+=======
+Juan Antonio Anguiano Antonio
+>>>>>>> a69615b429763911d6880a0a32e592bd2d5619e8
